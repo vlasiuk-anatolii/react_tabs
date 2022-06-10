@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,MACE,aAAc,CACd,UAAW,CACZ,OAGC,iBAAkB","file":"main.49260f5c.chunk.css","sourcesContent":[".Tabs {\n  margin: 0 auto;\n  width: 35vw;\n}\n\n.title {\n  text-align: center;\n}\n"]}
